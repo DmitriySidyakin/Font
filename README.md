@@ -13,27 +13,26 @@
 6. Embedded OpenType Fonts (EOT)
 
 ## TrueType Fonts (TTF)
-
-TrueType is a font standard developed in the late 1980s, by Apple and Microsoft. TrueType is the most common font format for both the Mac OS and Microsoft Windows operating systems.
+TrueTupe - это стандарт на шрифты, разработынный в конце 1980-ых Apple и Microsoft. TrueTupe является наиболее обычным форматом шрифта для обоих операционных систем (Mac OS и Microsoft Windows).
 
 ## OpenType Fonts (OTF)
 
-OpenType is a format for scalable computer fonts. It was built on TrueType, and is a registered trademark of Microsoft. OpenType fonts are used commonly today on the major computer platforms.
+OpenType - это формат для маштабируемых компьютерных шрифтов. Он был базирован на формате TrueType и является зарегистрированной маркой компании Microsoft. Шрифты OpenType используемы, обычно сегодня, на ведущих компьютерных платформах. 
 
 ## The Web Open Font Format (WOFF)
 
-WOFF is a font format for use in web pages. It was developed in 2009, and is now a W3C Recommendation. WOFF is essentially OpenType or TrueType with compression and additional metadata. The goal is to support font distribution from a server to a client over a network with bandwidth constraints.
+WOFF - это формат шрифта для использования на web-страницах. Он был разработан в 2009 и является рекомендацией от World Wide Web Consortium. WOFF является в основном OpenType или TrueType c жатием и дополнительными метаданными. Целью WOFF является поддержать распределение шрифтов от сервера к клиенту через сеть с ограничениями полосы пропускания.
 
 ## The Web Open Font Format (WOFF 2.0)
 
-TrueType/OpenType font that provides better compression than WOFF 1.0.
+TrueType/OpenType шрифт, который обеспечивает лучшее сжатие, чем формат WOFF 1.0.
 
 ## SVG Fonts/Shapes
 
-SVG fonts allow SVG to be used as glyphs when displaying text. The SVG 1.1 specification define a font module that allows the creation of fonts within an SVG document. You can also apply CSS to SVG documents, and the @font-face rule can be applied to text in SVG documents.
+SVG шрифты позволяют использовать SVG как символы когда отображается текст. Спецификация SVG 1.1 определяет модуль шрифта, который позволяет создание шрифтов внутри SVG-документа. Вы можете, также, добавить CSS к SVG-документам, и правило @font-face может быть добавлено к тексту в SVG-документах.
 
 ## Embedded OpenType Fonts (EOT)
 
-EOT fonts are a compact form of OpenType fonts designed by Microsoft for use as embedded fonts on web pages.
+EOT-шрифты - это компактная форма шрифтов OpenType, разработанные Microsoft для использоования как встроенные шрифты на web-страницы.
 
 Исходный текст: [w3schools.com](https://www.w3schools.com/css/css3_fonts.asp)
