@@ -1,3 +1,3 @@
 # Embedded OpenType Fonts (EOT)
 
-Specification: [World Wide Web Consortium](https://www.w3.org/Submission/2008/SUBM-EOT-20080305/)
+Спецификация: [World Wide Web Consortium](https://www.w3.org/Submission/2008/SUBM-EOT-20080305/)
