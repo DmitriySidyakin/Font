@@ -48,3 +48,11 @@ EOT-шрифты - это компактная форма шрифтов OpenTyp
 Спецификация: [World Wide Web Consortium](https://www.w3.org/Submission/2008/SUBM-EOT-20080305/)
 
 Исходный текст: [w3schools.com](https://www.w3schools.com/css/css3_fonts.asp)
+
+## Перевод спецификаций
+1. [TrueType Fonts (TTF)](/TTF)
+2. [OpenType Fonts (OTF)](/OTF)
+3. [The Web Open Font Format (WOFF)](/WOFF/1)
+4. [The Web Open Font Format (WOFF 2.0)](/WOFF/2)
+5. [SVG Fonts/Shapes](/SVG)
+6. [Embedded OpenType Fonts (EOT)](/EOT)
