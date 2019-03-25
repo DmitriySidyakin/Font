@@ -13,7 +13,7 @@
 6. Embedded OpenType Fonts (EOT)
 
 ## TrueType Fonts (TTF)
-TrueTupe - это стандарт на шрифты, разработынный в конце 1980-ых Apple и Microsoft. TrueTupe является наиболее обычным форматом шрифта для обоих операционных систем (Mac OS и Microsoft Windows).
+TrueType - это стандарт на шрифты, разработынный в конце 1980-ых Apple и Microsoft. TrueTupe является наиболее обычным форматом шрифта для обоих операционных систем (Mac OS и Microsoft Windows).
 
 Спецификация: [Apple Reference](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
 
